@@ -33,4 +33,4 @@ custom_header: false
 custom_nav_footer: false
 reverse: false
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
